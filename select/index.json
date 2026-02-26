@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "命動",
+  "base_artist": "buzzG",
+  "createdAt": "2026-02-26T09:43:39.338430Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "命動 (feat. 鏡音リン)",
+      "artist": "buzzG",
+      "has_synced": false,
+      "path": "select/pl_01_命動_(feat._鏡音リン)_buzzG.txt"
+    }
+  ]
+}
